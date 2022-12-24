@@ -7,11 +7,14 @@
 Bikeshare project
 
 ### Description
-Describe what your project is about and what it does
+I used three csv files of bikeshare data at three cities to find data statistics
 
 ### Files used
-Include the files used
+1-chicago.csv
+2-new_york_city.csv
+3-washington.csv
+4-bikeshare.py
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Thanks to Udacity
