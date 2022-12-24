@@ -9,6 +9,9 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 def HelloUser():
     return print("Hello user")
 
+def PrintA(A):
+    return print(A)
+
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
