@@ -6,11 +6,6 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv','newyorkcity': 'new_york_city.csv','newyork': 'new_york_city.csv' }
 
-def HelloUser():
-    return print("Hello user")
-
-def PrintA(A):
-    return print(A)
 
 def get_filters():
     """
